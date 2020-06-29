@@ -10,4 +10,4 @@ def hello_t
   end
 end
 
-hello_t([""])
+hello_t(["Tim, Tom, Jim"])
