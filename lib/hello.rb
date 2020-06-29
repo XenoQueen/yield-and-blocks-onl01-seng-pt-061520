@@ -6,5 +6,5 @@ def hello_t(name)
   end
 end
 
-# call your method here!
+hello_t
 
